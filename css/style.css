@@ -10,6 +10,11 @@ header {
     background-color: green;
 }
 
+<<<<<<< HEAD
 footer {
 	background-color: blue;
+=======
+section {
+    background-color: yellow;
+>>>>>>> f3e57d652f256c9b82181416dbb85462c07045b2
 }
